@@ -29,7 +29,7 @@ This application captures mouse movement data and allows users to capture images
 1. Steps:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MilenPlamenov/flask_mouse_track.git
    cd MouseChecking
     ```
 
