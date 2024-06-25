@@ -30,7 +30,7 @@ This application captures mouse movement data and allows users to capture images
 
    ```bash
    git clone https://github.com/MilenPlamenov/flask_mouse_track.git
-   cd MouseChecking
+   cd flask_mouse_track
     ```
 
    ```bash
